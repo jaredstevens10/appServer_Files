@@ -1,0 +1,24 @@
+.bg-danger, .bg-success {
+	padding: 0 0px 0px 0px;
+
+}
+
+a {
+	color: #EF1F2F;
+	text-decoration: none;
+       padding-bottom: 300px;
+
+}
+
+
+.next {
+    padding-bottom: 300px;
+}
+
+.submitLink {
+background-color: transparent;
+text-decoration: underline;
+border: none;
+color: blue;
+cursor: pointer;
+}

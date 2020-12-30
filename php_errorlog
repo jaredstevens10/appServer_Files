@@ -1,0 +1,174 @@
+[10-Jun-2015 12:35:07 America/Chicago] Connect failed: Access denied for user 'clavenso_Admin'@'localhost' to database 'clavenso_JobTracker'
+[10-Jun-2015 12:35:54 America/Chicago] Success: 1
+[10-Jun-2015 12:35:54 America/Chicago] User 'jared' created.
+[10-Jun-2015 12:36:02 America/Chicago] User jared: password match.
+[12-Jun-2015 08:02:58 America/Chicago] User jared: password match.
+[13-Jun-2015 09:34:15 America/Chicago] User jared: password match.
+[13-Jun-2015 09:36:49 America/Chicago] User jared: password match.
+[15-Jun-2015 13:58:17 America/Chicago] User jared: password match.
+[18-Jun-2015 21:30:41 America/Chicago] User jared: password match.
+[18-Jun-2015 21:46:19 America/Chicago] User jared: password match.
+[18-Jun-2015 22:53:08 America/Chicago] User jared: password match.
+[18-Jun-2015 22:53:39 America/Chicago] Success: 1
+[18-Jun-2015 22:53:39 America/Chicago] User 'chris' created.
+[18-Jun-2015 22:53:49 America/Chicago] User chris: password match.
+[19-Jun-2015 06:40:09 America/Chicago] User jared: password match.
+[19-Jun-2015 06:43:54 America/Chicago] User chris: password match.
+[19-Jun-2015 06:44:14 America/Chicago] User jared: password match.
+[19-Jun-2015 06:55:21 America/Chicago] User jared: password match.
+[19-Jun-2015 07:00:25 America/Chicago] User chris: password match.
+[19-Jun-2015 07:00:43 America/Chicago] User jared: password match.
+[19-Jun-2015 07:07:14 America/Chicago] User chris: password match.
+[19-Jun-2015 07:17:17 America/Chicago] User jared: password match.
+[19-Jun-2015 07:17:28 America/Chicago] User chris: password match.
+[19-Jun-2015 07:17:54 America/Chicago] User jared: password match.
+[19-Jun-2015 07:18:46 America/Chicago] User chris: password match.
+[19-Jun-2015 07:19:49 America/Chicago] User jared: password match.
+[19-Jun-2015 07:21:16 America/Chicago] User chris: password match.
+[19-Jun-2015 07:23:17 America/Chicago] User jared: password match.
+[19-Jun-2015 07:24:26 America/Chicago] User chris: password match.
+[19-Jun-2015 07:27:36 America/Chicago] User jared: password match.
+[19-Jun-2015 07:27:55 America/Chicago] User chris: password match.
+[19-Jun-2015 07:28:06 America/Chicago] User jared: password match.
+[19-Jun-2015 07:28:19 America/Chicago] User chris: password match.
+[19-Jun-2015 07:31:35 America/Chicago] User jared: password match.
+[19-Jun-2015 07:32:33 America/Chicago] User chris: password match.
+[19-Jun-2015 07:35:17 America/Chicago] User jared: password match.
+[19-Jun-2015 07:40:04 America/Chicago] User chris: password match.
+[19-Jun-2015 07:40:17 America/Chicago] User jared: password match.
+[19-Jun-2015 08:00:10 America/Chicago] User chris: password match.
+[19-Jun-2015 08:00:29 America/Chicago] User jared: password match.
+[19-Jun-2015 08:00:59 America/Chicago] User jared: password match.
+[20-Jun-2015 09:00:34 America/Chicago] User jared: password match.
+[21-Jun-2015 13:44:16 America/Chicago] User jared: password match.
+[21-Jun-2015 21:48:13 America/Chicago] User jared: password match.
+[22-Jun-2015 08:56:36 America/Chicago] User jared: password match.
+[22-Jun-2015 09:06:38 America/Chicago] User jared: password match.
+[22-Jun-2015 09:11:20 America/Chicago] User jared: password match.
+[23-Jun-2015 15:29:35 America/Chicago] User jared: password match.
+[23-Jun-2015 15:30:02 America/Chicago] User chris: password match.
+[23-Jun-2015 15:51:02 America/Chicago] User jared: password match.
+[23-Jun-2015 15:54:19 America/Chicago] User jared: password match.
+[23-Jun-2015 15:55:22 America/Chicago] User jared: password match.
+[23-Jun-2015 15:57:56 America/Chicago] User chris: password match.
+[23-Jun-2015 16:00:02 America/Chicago] User jared: password match.
+[23-Jun-2015 16:20:27 America/Chicago] User jared: password match.
+[24-Jun-2015 13:30:53 America/Chicago] User jared: password match.
+[24-Jun-2015 13:37:37 America/Chicago] User jared: password match.
+[24-Jun-2015 14:27:17 America/Chicago] User chris: password match.
+[24-Jun-2015 14:35:48 America/Chicago] User jared: password match.
+[24-Jun-2015 16:34:43 America/Chicago] User chris: password match.
+[24-Jun-2015 16:36:16 America/Chicago] User jared: password match.
+[24-Jun-2015 16:37:47 America/Chicago] User chris: password match.
+[24-Jun-2015 16:38:39 America/Chicago] User jared: password match.
+[24-Jun-2015 16:44:01 America/Chicago] Error: No data supplied for parameters in prepared statement
+[24-Jun-2015 16:44:01 America/Chicago] Success: 0
+[25-Jun-2015 07:56:01 America/Chicago] User jared: password match.
+[25-Jun-2015 08:35:54 America/Chicago] User chris: password match.
+[25-Jun-2015 08:38:34 America/Chicago] User jared: password match.
+[25-Jun-2015 14:59:37 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 14:59:37 America/Chicago] Success: 0
+[25-Jun-2015 15:04:22 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:04:22 America/Chicago] Success: 0
+[25-Jun-2015 15:07:55 America/Chicago] Error: Column 'username' cannot be null
+[25-Jun-2015 15:07:55 America/Chicago] Success: -1
+[25-Jun-2015 15:08:18 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:08:18 America/Chicago] Success: 0
+[25-Jun-2015 15:08:54 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:08:54 America/Chicago] Success: 0
+[25-Jun-2015 15:09:09 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:09:09 America/Chicago] Success: 0
+[25-Jun-2015 15:12:27 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/clavenso/public_html/Apps/jobtrackersignup.php on line 32
+[25-Jun-2015 15:12:56 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:12:56 America/Chicago] Success: 0
+[25-Jun-2015 15:13:37 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:13:37 America/Chicago] Success: 0
+[25-Jun-2015 15:15:02 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:15:02 America/Chicago] Success: 0
+[25-Jun-2015 15:15:38 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:15:38 America/Chicago] Success: 0
+[25-Jun-2015 15:15:51 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:15:51 America/Chicago] Success: 0
+[25-Jun-2015 15:15:57 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:15:57 America/Chicago] Success: 0
+[25-Jun-2015 15:16:01 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:16:01 America/Chicago] Success: 0
+[25-Jun-2015 15:16:46 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:16:46 America/Chicago] Success: 0
+[25-Jun-2015 15:18:06 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home/clavenso/public_html/Apps/jobtrackersignup.php on line 36
+[25-Jun-2015 15:20:13 America/Chicago] Success: 1
+[25-Jun-2015 15:20:13 America/Chicago] User 'mike' created.
+[25-Jun-2015 15:21:04 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:21:04 America/Chicago] Success: 0
+[25-Jun-2015 15:21:22 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:21:22 America/Chicago] Success: 0
+[25-Jun-2015 15:21:29 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:21:29 America/Chicago] Success: 0
+[25-Jun-2015 15:21:41 America/Chicago] Success: 1
+[25-Jun-2015 15:21:41 America/Chicago] User 'megan' created.
+[25-Jun-2015 15:22:22 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:22:22 America/Chicago] Success: 0
+[25-Jun-2015 15:22:57 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/clavenso/public_html/Apps/jobtrackersignup.php on line 33
+[25-Jun-2015 15:23:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/clavenso/public_html/Apps/jobtrackersignup.php on line 33
+[25-Jun-2015 15:23:32 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:23:32 America/Chicago] Success: 0
+[25-Jun-2015 15:23:43 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:23:43 America/Chicago] Success: 0
+[25-Jun-2015 15:24:08 America/Chicago] PHP Fatal error:  Cannot pass parameter 3 by reference in /home/clavenso/public_html/Apps/jobtrackersignup.php on line 33
+[25-Jun-2015 15:24:21 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:24:21 America/Chicago] Success: 0
+[25-Jun-2015 15:24:32 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/clavenso/public_html/Apps/jobtrackersignup.php on line 33
+[25-Jun-2015 15:24:42 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/clavenso/public_html/Apps/jobtrackersignup.php on line 33
+[25-Jun-2015 15:24:45 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/clavenso/public_html/Apps/jobtrackersignup.php on line 33
+[25-Jun-2015 15:24:58 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:24:58 America/Chicago] Success: 0
+[25-Jun-2015 15:25:14 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_stmt could not be converted to string in /home/clavenso/public_html/Apps/jobtrackersignup.php on line 32
+[25-Jun-2015 15:26:06 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:26:06 America/Chicago] Success: 0
+[25-Jun-2015 15:26:40 America/Chicago] Error: No data supplied for parameters in prepared statement
+[25-Jun-2015 15:26:40 America/Chicago] Success: 0
+[25-Jun-2015 15:27:04 America/Chicago] Success: 1
+[25-Jun-2015 15:27:04 America/Chicago] User 'john' created.
+[25-Jun-2015 15:27:39 America/Chicago] Error: Duplicate entry 'john' for key 'username'
+[25-Jun-2015 15:27:39 America/Chicago] Success: -1
+[25-Jun-2015 15:27:55 America/Chicago] Success: 1
+[25-Jun-2015 15:27:55 America/Chicago] User 'mike' created.
+[25-Jun-2015 15:28:23 America/Chicago] Success: 1
+[25-Jun-2015 15:28:23 America/Chicago] User 'carl' created.
+[25-Jun-2015 15:29:41 America/Chicago] Success: 1
+[25-Jun-2015 15:29:41 America/Chicago] User 'mike' created.
+[25-Jun-2015 15:29:52 America/Chicago] User mike: password match.
+[25-Jun-2015 15:40:21 America/Chicago] User jared: password match.
+[26-Jun-2015 13:58:37 America/Chicago] User chris: password match.
+[26-Jun-2015 14:03:24 America/Chicago] User jared: password match.
+[26-Jun-2015 15:22:10 America/Chicago] Success: 1
+[26-Jun-2015 15:22:10 America/Chicago] User 'john' created.
+[26-Jun-2015 15:22:18 America/Chicago] User john: password match.
+[26-Jun-2015 15:26:43 America/Chicago] User jared: password match.
+[27-Jun-2015 15:57:54 America/Chicago] Success: 1
+[27-Jun-2015 15:57:54 America/Chicago] User 'sharon' created.
+[27-Jun-2015 15:58:00 America/Chicago] User sharon: password match.
+[27-Jun-2015 19:18:13 America/Chicago] User jared: password match.
+[03-Jul-2015 14:54:20 America/Chicago] User mike: password match.
+[03-Jul-2015 18:15:35 America/Chicago] User jared: password doesn't match.
+[03-Jul-2015 18:15:48 America/Chicago] User jared: password match.
+[08-Jul-2015 11:21:56 America/Chicago] User jared: password match.
+[08-Jul-2015 12:24:06 America/Chicago] User jared: password match.
+[15-Jul-2015 07:22:44 America/Chicago] User jared: password match.
+[15-Jul-2015 07:24:57 America/Chicago] User jared: password match.
+[17-Jul-2015 22:08:44 America/Chicago] User jared: password match.
+[18-Jul-2015 13:37:50 America/Chicago] User jared: password match.
+[18-Jul-2015 15:40:53 America/Chicago] User jared: password match.
+[18-Jul-2015 21:31:20 America/Chicago] User hdkakajs: password doesn't match.
+[18-Jul-2015 21:33:03 America/Chicago] User daksk: password doesn't match.
+[18-Jul-2015 21:35:05 America/Chicago] User djkams: password doesn't match.
+[18-Jul-2015 21:35:13 America/Chicago] User djkams: password doesn't match.
+[18-Jul-2015 21:38:15 America/Chicago] User jared: password match.
+[18-Jul-2015 21:40:28 America/Chicago] User jared: password match.
+[18-Jul-2015 21:44:31 America/Chicago] User jared: password match.
+[24-Jul-2015 11:47:44 America/Chicago] User mike: password match.
+[24-Jul-2015 11:48:27 America/Chicago] User mike: password match.
+[24-Jul-2015 11:48:45 America/Chicago] User mike: password match.
+[18-Aug-2015 09:52:58 America/Chicago] User jared: password doesn't match.
+[18-Aug-2015 09:53:07 America/Chicago] User jared: password match.
+[26-Aug-2015 13:33:35 America/Chicago] User mike: password match.
